@@ -15,7 +15,7 @@ public class Republic_day {
     public static void displayImportance() {
         System.out.println("\n");
         System.out.println("WHY INDIA CELEBRATES REPUBLIC DAY ON 26 JANUARY:");
-		System.out.println("_______________________________________________");       
+		System.out.println("-----------------------------------------------");       
         System.out.println("1 ADOPTION OF THE CONSTITUTION:");
         System.out.println("    On 26 January 1950, India adopted its Constitution,");
         System.out.println("    drafted by the Constituent Assembly led by Dr. B.R. Ambedkar.");
