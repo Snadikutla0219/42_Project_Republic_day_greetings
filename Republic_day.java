@@ -110,7 +110,7 @@ public class Republic_day {
         System.out.println("║        Let us work together to build a stronger,          ║");
         System.out.println("║        more prosperous, and compassionate India.         ║");
         System.out.println("║                                                           ║");
-        System.out.println("║                   🇮🇳 JAI HIND! 🇮🇳                      ║");
+        System.out.println("║                 JAI HIND - JAI BHART                    ║");
         System.out.println("║                                                           ║");
         System.out.println("╚═══════════════════════════════════════════════════════════╝");
     }
