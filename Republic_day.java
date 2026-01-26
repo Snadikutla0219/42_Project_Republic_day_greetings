@@ -6,7 +6,7 @@ public class Republic_day {
         System.out.println("║                                                           ║");
         System.out.println("║                    HAPPY REPUBLIC DAY!                    ║");
         System.out.println("║                                                           ║");
-        System.out.println("║                 26 JANUARY - REPUBLIC DAY                 ║");
+        System.out.println("║                26 JANUARY - REPUBLIC DAY                  ║");
         System.out.println("║                                                           ║");
         System.out.println("║    Jai Hind! Long live the spirit of our great nation!    ║");
         System.out.println("║                                                           ║");
