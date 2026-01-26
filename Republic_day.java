@@ -4,41 +4,36 @@ public class Republic_day {
     public static void displayGreeting() {
         System.out.println("╔═══════════════════════════════════════════════════════════╗");
         System.out.println("║                                                           ║");
-        System.out.println("║                 HAPPY REPUBLIC DAY!                       ║");
+        System.out.println("║                    HAPPY REPUBLIC DAY!                    ║");
         System.out.println("║                                                           ║");
-        System.out.println("║              26 JANUARY - REPUBLIC DAY                    ║");
+        System.out.println("║                 26 JANUARY - REPUBLIC DAY                 ║");
         System.out.println("║                                                           ║");
         System.out.println("║    Jai Hind! Long live the spirit of our great nation!    ║");
         System.out.println("║                                                           ║");
         System.out.println("╚═══════════════════════════════════════════════════════════╝");
     }
-    
     // Display importance of Republic Day
     public static void displayImportance() {
         System.out.println("\n");
-        System.out.println("═══════════════════════════════════════════════════════════════");
         System.out.println("WHY INDIA CELEBRATES REPUBLIC DAY ON 26 JANUARY:");
-        System.out.println("═══════════════════════════════════════════════════════════════\n");
         
-        System.out.println("1️   ADOPTION OF THE CONSTITUTION:");
+        System.out.println("1️ ADOPTION OF THE CONSTITUTION:");
         System.out.println("    On 26 January 1950, India adopted its Constitution,");
         System.out.println("    drafted by the Constituent Assembly led by Dr. B.R. Ambedkar.");
         System.out.println("    The Constitution established India as the world's largest");
         System.out.println("    democracy with a parliamentary system of government,");
         System.out.println("    ensuring equal rights for all citizens.\n");
         
-        System.out.println("2   UNITY IN DIVERSITY:");
+        System.out.println("2 UNITY IN DIVERSITY:");
         System.out.println("    Republic Day celebrates India's unity despite its vast");
         System.out.println("    diversity in culture, religion, language, and traditions.\n");
         
-        System.out.println("3   NATIONAL PRIDE:");
+        System.out.println("3 NATIONAL PRIDE:");
         System.out.println("    It is a day to honor the sacrifice of freedom fighters");
         System.out.println("    and remember the values of justice, liberty, equality,");
         System.out.println("    and fraternity enshrined in our Constitution.\n");
-        
-        System.out.println("═══════════════════════════════════════════════════════════════\n");
+
     }
-    
     // Main method
     public static void main(String[] args) {
         // Display decorative header
